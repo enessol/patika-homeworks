@@ -1,5 +1,6 @@
 # patika-homeworks
 From now on I will keep patika.dev homeworks under this repo.
+For this homework, assigned by Patika.dev, I tried and created a page which takes your name and displays it on the screen along with the live clock.
 
 <hr>
 
